@@ -14,5 +14,4 @@ public class AndroidPhone implements Phone {
         System.out.println("安卓手机发短信");
     }
 
-
 }
